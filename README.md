@@ -6,4 +6,5 @@
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-faustino-qa/) [![Projetos](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
 [![Linguagens](https://skillicons.dev/icons?i=java,selenium,js,html,css&theme=dark)](https://skillicons.dev)
